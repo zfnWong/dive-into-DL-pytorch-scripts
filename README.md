@@ -7,9 +7,10 @@
 
 本仓库在[《动手学深度学习》](https:/zh.d2l.ai)的[pytorch实现] (https://github.com/ShusenTang/Dive-into-DL-PyTorch) 的基础上略有修改并将其整理为python脚本，并添加了较多的注释，对初学者更加友好。原书有[中文](https:/zh.d2l.ai)和[英文](https://github.com/ShusenTang/Dive-into-DL-PyTorch)两个版本，版本之间的目录编排和内容有一些不同。原书作者：阿斯顿·张、李沐、扎卡里 C. 立顿、亚历山大 J. 斯莫拉以及其他社区贡献者，GitHub地址：https://github.com/d2l-ai/d2l-zh
 
-Note: 所有的代码文件都在pycharm的Community版本上实现通过。
+**Note**: 所有的代码文件都在pycharm的Community版本上实现通过。
 
-Advice: 本人在刚开始用的Anaconda里的spyder代码编辑器，但是因为电脑的一些硬件比较落后，不支持spyder的Kite插件，以及代码补全偶尔会失灵，所以就改用了pycharm，用起来舒心一些。但是pycharm的自定义设置不如spyder，以及没有中文版。
+**Advice**: 本人在刚开始用的Anaconda里的spyder代码编辑器，但是因为电脑的一些硬件比较落后，不支持spyder的Kite插件，以及代码补全偶尔会失灵，所以就改用了pycharm，用起来舒心一些。但是pycharm的自定义设置不如spyder，以及没有中文版。
+
 
 
 ## 简介
@@ -21,13 +22,16 @@ Advice: 本人在刚开始用的Anaconda里的spyder代码编辑器，但是因�
 3\. 本人也尝试着按照原书的mxnet代码进行pytorch改写，还参考了英文版的pytorch实现（比较复杂），但是代码的结果对不上，大概是我太菜了
 
 
+
 ## 食用方法
 建议阅读原书的[pytorch实现版本网页书](https://github.com/ShusenTang/Dive-into-DL-PyTorch)，先理解相关的理论知识，然后利用本仓库整理的脚本和注释，动手运行、修改、调试，加深知识理解。对于pytorch实现版本网页书缺少的章节，则阅读原书网页书对应的章节，先理解原理，再不妨试试基于mxnet/gluon的原书代码，运行、修改、调试，加深知识理解。
+
 
 
 ## 原书地址
 中文版：[动手学深度学习](https://zh.d2l.ai/) | [Github仓库](https://github.com/d2l-ai/d2l-zh)       
 English Version: [Dive into Deep Learning](https://d2l.ai/) | [Github Repo](https://github.com/d2l-ai/d2l-en)
+
 
 
 ## 引用
