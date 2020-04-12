@@ -10,7 +10,7 @@
 **Note**: 所有的代码文件都在pycharm的Community版本上实现通过。
 
 **Advice**: 本人在刚开始用的Anaconda里的spyder代码编辑器，但是因为电脑的一些硬件比较落后，不支持spyder的Kite插件，以及代码补全偶尔会失灵，所以就改用了pycharm，用起来舒心一些。但是pycharm的自定义设置不如spyder，以及没有中文版。
-
+<br/>
 
 ## 简介
 本仓库主目录下用于存放代码，子目录small_dataset中存放的是代码中用到的小数据集，子目录Datasets本来是用来存放代码中用到的多个相对较大的数据集的，但是为节省空间以及提高下载速度，在这里只是一个空文件夹，在运行相应的python脚本时，会自动下载数据集到该文件夹中。
@@ -25,9 +25,14 @@
 建议阅读原书的[pytorch实现版本网页书](https://github.com/ShusenTang/Dive-into-DL-PyTorch)，先理解相关的理论知识，然后利用本仓库整理的脚本和注释，动手运行、修改、调试，加深知识理解。对于pytorch实现版本网页书缺少的章节，则阅读原书网页书对应的章节，先理解原理，再不妨试试基于mxnet/gluon的原书代码，运行、修改、调试，加深知识理解。
 
 
-## 原书地址
-中文版：[动手学深度学习](https://zh.d2l.ai/) | [Github仓库](https://github.com/d2l-ai/d2l-zh)       
-English Version: [Dive into Deep Learning](https://d2l.ai/) | [Github Repo](https://github.com/d2l-ai/d2l-en)
+## 支持
+如果您喜欢这个仓库或者觉得这个仓库有用的话，请考虑给我一颗星（★），让它能被更多人看到。
+
+
+## 参考
+[1] [《动手学深度学习》](https:/zh.d2l.ai) by Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola.
+
+[2] [原书的pytorch实现网页书](https://github.com/ShusenTang/Dive-into-DL-PyTorch) by Shusen Tang.
 
 
 ## 引用
