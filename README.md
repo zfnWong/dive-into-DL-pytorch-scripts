@@ -1,7 +1,7 @@
 
 <div align=center>
 <a href="https://github.com/ShusenTang/Dive-into-DL-PyTorch" target="-blank">
-    <img src="cover.png">
+    <img width="500" src="cover.png">
 </a>
 </div>
 
