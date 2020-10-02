@@ -1,8 +1,6 @@
 
 <div align=center>
-<a href="https://github.com/ShusenTang/Dive-into-DL-PyTorch" target="-blank">
     <img width="500" src="cover.png">
-</a>
 </div>
 
 本仓库在[《动手学深度学习》](https:/zh.d2l.ai)的[pytorch实现] (https://github.com/ShusenTang/Dive-into-DL-PyTorch) 的基础上略有修改并将其整理为python脚本，并添加了较多的注释，对初学者更加友好。原书有[中文](https:/zh.d2l.ai)和[英文](https://github.com/ShusenTang/Dive-into-DL-PyTorch)两个版本，版本之间的目录编排和内容有一些不同。原书作者：阿斯顿·张、李沐、扎卡里 C. 立顿、亚历山大 J. 斯莫拉以及其他社区贡献者，GitHub地址：https://github.com/d2l-ai/d2l-zh
